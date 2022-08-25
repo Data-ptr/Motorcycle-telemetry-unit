@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "BK-6013")(type "KiCad")(uri "/Users/janehacker/Downloads/BK-6013")(options "")(descr ""))
+  (lib (name "VO615A")(type "KiCad")(uri "/Users/janehacker/Downloads/VO615A")(options "")(descr ""))
+)
