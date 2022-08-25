@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "VO615A")(type "Legacy")(uri "/Users/janehacker/Downloads/VO615A/VO615A.lib")(options "")(descr ""))
+  (lib (name "VO615A")(type "KiCad")(uri "${KIPRJMOD}/IMPORT/VO615A/VO615A.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-08-19_14-48-32")(type "KiCad")(uri "${KIPRJMOD}/IMPORT/ul_BNO085/KiCAD/2022-08-19_14-48-32/2022-08-19_14-48-32.kicad_sym")(options "")(descr ""))
+  (lib (name "BK-6013")(type "KiCad")(uri "${KIPRJMOD}/IMPORT/BK-6013/BK-6013.kicad_sym")(options "")(descr ""))
 )
